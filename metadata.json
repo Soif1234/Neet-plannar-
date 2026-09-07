@@ -1,0 +1,6 @@
+{
+  "name": "NEET 2027 Tracker",
+  "description": "Personalized NEET 2027 study planner and recovery schedule tracker with mistake notebook, past paper weightage insights, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
